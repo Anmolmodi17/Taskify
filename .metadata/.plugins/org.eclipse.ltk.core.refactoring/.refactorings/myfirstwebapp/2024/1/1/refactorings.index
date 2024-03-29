@@ -1,0 +1,25 @@
+1704270078799	Delete element
+1704270886656	Move 'WEB_INF' to 'resources'
+1704271406324	Delete element
+1704274106572	Copy file
+1704276238327	Copy package
+1704276246543	Delete element
+1704356487996	Copy package
+1704356517187	Delete element
+1704356902809	Rename resource 'WEB_INF'
+1704357079190	Rename resource 'META_INF'
+1704360776023	Copy file
+1704364245942	Copy file
+1704442794877	Copy file
+1704528704870	Copy file
+1704528725448	Copy file
+1704528732766	Rename resource 'header.jsp'
+1704528738191	Rename resource 'footer.jsp'
+1704530726476	Delete element
+1704530755653	Delete element
+1704539977057	Extract method 'getLoggedInUsername'
+1704540866376	Extract local variable 'username'
+1704540888520	Extract local variable 'password'
+1704540993704	Extract method 'createNewUser'
+1704546007079	Copy compilation unit
+1704546025906	Rename type 'TodoControllerjpa'
